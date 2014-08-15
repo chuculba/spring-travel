@@ -36,7 +36,7 @@
 		<div id="logo">
 			<p>
 				<a href="<c:url value="/" />">
-					<img src="<c:url value="/resources/images/header.jpg"/>" alt="Spring Travel" />
+					<img src="<c:url value="/resources/images/1443_198_z.jpg"/>" alt="Spring Travel" />
 				</a>
 			</p>
 		</div>
@@ -49,9 +49,6 @@
 				</a>
 			</p>
 			<p>
-				<a href="http://www.thespringexperience.com">
-					<img src="<c:url value="/resources/images/springone2gx.jpeg"/>" alt="SpringOne 2GX" />
-				</a>
 			</p>
 		</div>
 		<div id="main" class="span-18 last">
@@ -60,9 +57,6 @@
 	</div>
 	<hr />
 	<div id="footer">
-		<a href="http://www.springframework.org">
-			<img src="<c:url value="/resources/images/powered-by-spring.png"/>" alt="Powered by Spring" />
-		</a>
 	</div>
 </div>
 </body>

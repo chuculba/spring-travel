@@ -1,5 +1,5 @@
 <div>
-	<h1>Welcome to Spring Travel</h1>
+	<h1>Welcome to Happy Days Travel</h1>
 	<p>
 	 	This sample demonstrates how to use Spring MVC and Spring Web Flow together with JavaServerPages (JSP) and Tiles.
 	 	<br />
@@ -25,6 +25,6 @@
 		<li>SpringSource Tool Suite integration, with support for graphical flow modeling and visualization</li>
 	</ul>
 	<p>
-		<a href="hotels/search">Start your Spring Travel experience</a>
+		<a href="hotels/search">Start here</a>
 	</p>
 </div>
